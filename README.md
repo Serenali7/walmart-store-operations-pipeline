@@ -196,6 +196,34 @@ Completed pipeline components:
 
 ---
 
+## Evidence Screenshots
+
+### 1. Raw Files in Google Cloud Storage
+
+![GCS Raw Files](screenshots/01_gcs_raw_files.png)
+
+### 2. BigQuery Layered Datasets
+
+![BigQuery Layers](screenshots/02_bigquery_layers.png)
+
+### 3. Raw Layer Row Counts
+
+![Raw Row Counts](screenshots/03_raw_row_counts.png)
+
+### 4. Core Layer Row Counts
+
+![Core Row Counts](screenshots/04_core_row_counts.png)
+
+### 5. Mart Layer Row Counts
+
+![Mart Row Counts](screenshots/05_mart_row_counts.png)
+
+### 6. Data Quality Audit Summary
+
+![Audit Summary](screenshots/06_audit_summary.png)
+
+---
+
 ## Tools Used
 
 * Google Cloud Storage
