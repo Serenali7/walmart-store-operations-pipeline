@@ -196,31 +196,18 @@ Completed pipeline components:
 
 ---
 
-## Evidence Screenshots
+## Evidence
 
-### 1. Raw Files in Google Cloud Storage
+Project evidence screenshots are available in the `screenshots/` folder:
 
-![GCS Raw Files](screenshots/01_gcs_raw_files.png)
-
-### 2. BigQuery Layered Datasets
-
-![BigQuery Layers](screenshots/02_bigquery_layers.png)
-
-### 3. Raw Layer Row Counts
-
-![Raw Row Counts](screenshots/03_raw_row_counts.png)
-
-### 4. Core Layer Row Counts
-
-![Core Row Counts](screenshots/04_core_row_counts.png)
-
-### 5. Mart Layer Row Counts
-
-![Mart Row Counts](screenshots/05_mart_row_counts.png)
-
-### 6. Data Quality Audit Summary
-
-![Audit Summary](screenshots/06_audit_summary.png)
+| Evidence | File |
+|---|---|
+| Raw files uploaded to Google Cloud Storage | `screenshots/01_gcs_raw_files.png` |
+| BigQuery raw / staging / core / mart / audit layers | `screenshots/02_bigquery_layers.png` |
+| Raw layer row count validation | `screenshots/03_raw_row_counts.png` |
+| Core layer row count validation | `screenshots/04_core_row_counts.png` |
+| Mart layer row count validation | `screenshots/05_mart_row_counts.png` |
+| Data quality audit summary | `screenshots/06_audit_summary.png` |
 
 ---
 
