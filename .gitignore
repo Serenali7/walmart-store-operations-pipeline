@@ -1,0 +1,7 @@
+data/
+raw/
+*.zip
+.DS_Store
+.env
+credentials/
+*.json
