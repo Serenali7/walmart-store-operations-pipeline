@@ -112,7 +112,11 @@ Audit result:
 The warning is for negative weekly sales. These records were flagged for review instead of treated as pipeline failures because they may represent returns, refunds, or business adjustments.
 
 ---
+## Dashboard
+Looker Studio dashboard: https://datastudio.google.com/reporting/0a8ff021-c0f8-4a6b-9305-d84cad8d2bdb
+<img width="808" height="597" alt="Screenshot 2026-06-08 at 12 18 51" src="https://github.com/user-attachments/assets/86ce3f52-a893-4c07-8dc7-46905c4a27ce" />
 
+---
 ## SQL Files
 | File                         | Purpose                                      |
 | ---------------------------- | -------------------------------------------- |
